@@ -142,7 +142,7 @@ ul.nav.navbar-nav .hvr-bounce-to-bottom:before {
 }
 .navbar-right {
     float: left!important;
-	margin-left: 760px;
+	margin-left: 565px;
     margin-right:0px!important;
 }
 .navbar-collapse {
@@ -496,7 +496,7 @@ a.callbacks_nav.callbacks3_nav.next{
 .banner-text h3 {
 	
     color: #fff;
-    font-size: 100px;
+    font-size: 70px;
 	text-shadow:2px 2px black;
     text-transform: uppercase;
     font-weight: 600;
@@ -566,7 +566,7 @@ a.callbacks_nav.callbacks3_nav.next{
 }
 /*-- main --*/
 .services,.testimonials,.stats-agileits,.about,.team,.portfolio {
-	padding: 100px 0px;
+	/*padding: 100px 0px; */
 }
 .heading-agileinfo {
     font-weight: 800;
