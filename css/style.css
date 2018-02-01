@@ -2625,6 +2625,7 @@ p.footer-one-w3ls {
 		width: 79%;
 		font-size: 21px;
 		line-height: 21px;
+		padding-top: 5px;
 	}
 	#ro {
     padding-right: 10px;
@@ -2788,6 +2789,7 @@ p.footer-one-w3ls {
 @media(max-width:375px){
 	.banner-text h3 {
 		width: 88%;
+		padding-top: 5px;
 	}
 		#ro {
     padding-right: 10px;
