@@ -2593,9 +2593,32 @@ p.footer-one-w3ls {
 @media(max-width:414px){
 	.banner-text h3 {
 		width: 79%;
-		font-size: 14px;
+		font-size: 21px;
 		line-height: 21px;
 	}
+	#ro {
+    padding-right: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    /* background-color: black; */
+    /* opacity: 0.6; */
+    border-right: 2px solid white;
+    text-shadow: 2px 2px black;
+}
+#ro1 {
+    padding-right: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    /* background-color: black; */
+    /* opacity: 0.6; */
+    text-shadow: 2px 2px black;
+}
+#test {
+    margin-top: 15px;
+    /* padding-bottom: 1px; */
+}
 	.banner-text {
 		margin: 1.8em auto 0;
 	}
@@ -2692,7 +2715,7 @@ p.footer-one-w3ls {
 		font-size: 11px;
 	}
 	.banner {
-		min-height: 310px;
+		min-height: 210px;
 	}
 	.services, .testimonials, .stats-agileits, .about, .team, .portfolio {
 		padding: 30px 0px;
