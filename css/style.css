@@ -648,6 +648,7 @@ a.callbacks_nav.callbacks3_nav.next{
     text-align: center;
     padding: 1em 1em 2em;
     background: #002663;
+	    height: 275px;
 }
 .view .mask,.view .content {
    position: absolute;
@@ -656,6 +657,7 @@ a.callbacks_nav.callbacks3_nav.next{
    left: 0;
 }
 .view img {
+	
    display: block;
    position: relative;
 }
